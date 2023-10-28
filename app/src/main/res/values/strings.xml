@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cups</string>
+    <string name="hi_n_enter_number_of_litters">0 Cups</string>
+    <string name="litters">Enter litters</string>
+    <string name="convert">Convert</string>
+    <string name="hello">hello</string>
+    <string name="cups_shahed_hasan">Cups | Shahed Hasan</string>
+</resources>
